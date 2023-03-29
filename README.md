@@ -1,2 +1,2 @@
  Сергей 
-  ученик netology# 123
+ ученик netology
